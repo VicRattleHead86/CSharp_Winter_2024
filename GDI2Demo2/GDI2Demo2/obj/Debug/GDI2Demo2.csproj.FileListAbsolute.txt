@@ -1,0 +1,10 @@
+C:\Users\oveeyenm\Desktop\oveeyenm\CMPE1300_1232\Lecture7B\GDI2Demo2\GDI2Demo2\bin\Debug\GDI2Demo2.exe.config
+C:\Users\oveeyenm\Desktop\oveeyenm\CMPE1300_1232\Lecture7B\GDI2Demo2\GDI2Demo2\bin\Debug\GDI2Demo2.exe
+C:\Users\oveeyenm\Desktop\oveeyenm\CMPE1300_1232\Lecture7B\GDI2Demo2\GDI2Demo2\bin\Debug\GDI2Demo2.pdb
+C:\Users\oveeyenm\Desktop\oveeyenm\CMPE1300_1232\Lecture7B\GDI2Demo2\GDI2Demo2\bin\Debug\GDIDrawer.dll
+C:\Users\oveeyenm\Desktop\oveeyenm\CMPE1300_1232\Lecture7B\GDI2Demo2\GDI2Demo2\obj\Debug\GDI2Demo2.csproj.AssemblyReference.cache
+C:\Users\oveeyenm\Desktop\oveeyenm\CMPE1300_1232\Lecture7B\GDI2Demo2\GDI2Demo2\obj\Debug\GDI2Demo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\oveeyenm\Desktop\oveeyenm\CMPE1300_1232\Lecture7B\GDI2Demo2\GDI2Demo2\obj\Debug\GDI2Demo2.csproj.CoreCompileInputs.cache
+C:\Users\oveeyenm\Desktop\oveeyenm\CMPE1300_1232\Lecture7B\GDI2Demo2\GDI2Demo2\obj\Debug\GDI2Demo2.csproj.CopyComplete
+C:\Users\oveeyenm\Desktop\oveeyenm\CMPE1300_1232\Lecture7B\GDI2Demo2\GDI2Demo2\obj\Debug\GDI2Demo2.exe
+C:\Users\oveeyenm\Desktop\oveeyenm\CMPE1300_1232\Lecture7B\GDI2Demo2\GDI2Demo2\obj\Debug\GDI2Demo2.pdb
