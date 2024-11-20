@@ -1,0 +1,19 @@
+E:\Programs\DemoBallKick2\DemoBallKick2\bin\Debug\DemoBallKick2.exe.config
+E:\Programs\DemoBallKick2\DemoBallKick2\bin\Debug\DemoBallKick2.exe
+E:\Programs\DemoBallKick2\DemoBallKick2\bin\Debug\DemoBallKick2.pdb
+E:\Programs\DemoBallKick2\DemoBallKick2\bin\Debug\GDIDrawer.dll
+E:\Programs\DemoBallKick2\DemoBallKick2\obj\Debug\DemoBallKick2.csproj.AssemblyReference.cache
+E:\Programs\DemoBallKick2\DemoBallKick2\obj\Debug\DemoBallKick2.csproj.SuggestedBindingRedirects.cache
+E:\Programs\DemoBallKick2\DemoBallKick2\obj\Debug\DemoBallKick2.csproj.CoreCompileInputs.cache
+E:\Programs\DemoBallKick2\DemoBallKick2\obj\Debug\DemoBallKick2.csproj.CopyComplete
+E:\Programs\DemoBallKick2\DemoBallKick2\obj\Debug\DemoBallKick2.exe
+E:\Programs\DemoBallKick2\DemoBallKick2\obj\Debug\DemoBallKick2.pdb
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoBallKick2\DemoBallKick2\bin\Debug\DemoBallKick2.exe.config
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoBallKick2\DemoBallKick2\bin\Debug\DemoBallKick2.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoBallKick2\DemoBallKick2\bin\Debug\DemoBallKick2.pdb
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoBallKick2\DemoBallKick2\bin\Debug\GDIDrawer.dll
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoBallKick2\DemoBallKick2\obj\Debug\DemoBallKick2.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoBallKick2\DemoBallKick2\obj\Debug\DemoBallKick2.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoBallKick2\DemoBallKick2\obj\Debug\DemoBallKick2.csproj.CopyComplete
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoBallKick2\DemoBallKick2\obj\Debug\DemoBallKick2.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoBallKick2\DemoBallKick2\obj\Debug\DemoBallKick2.pdb

@@ -1,0 +1,15 @@
+E:\Programs\DemoMethod1\DemoMethod1\bin\Debug\DemoMethod1.exe.config
+E:\Programs\DemoMethod1\DemoMethod1\bin\Debug\DemoMethod1.exe
+E:\Programs\DemoMethod1\DemoMethod1\bin\Debug\DemoMethod1.pdb
+E:\Programs\DemoMethod1\DemoMethod1\obj\Debug\DemoMethod1.csproj.AssemblyReference.cache
+E:\Programs\DemoMethod1\DemoMethod1\obj\Debug\DemoMethod1.csproj.SuggestedBindingRedirects.cache
+E:\Programs\DemoMethod1\DemoMethod1\obj\Debug\DemoMethod1.csproj.CoreCompileInputs.cache
+E:\Programs\DemoMethod1\DemoMethod1\obj\Debug\DemoMethod1.exe
+E:\Programs\DemoMethod1\DemoMethod1\obj\Debug\DemoMethod1.pdb
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoMethod1\DemoMethod1\bin\Debug\DemoMethod1.exe.config
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoMethod1\DemoMethod1\bin\Debug\DemoMethod1.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoMethod1\DemoMethod1\bin\Debug\DemoMethod1.pdb
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoMethod1\DemoMethod1\obj\Debug\DemoMethod1.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoMethod1\DemoMethod1\obj\Debug\DemoMethod1.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoMethod1\DemoMethod1\obj\Debug\DemoMethod1.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoMethod1\DemoMethod1\obj\Debug\DemoMethod1.pdb

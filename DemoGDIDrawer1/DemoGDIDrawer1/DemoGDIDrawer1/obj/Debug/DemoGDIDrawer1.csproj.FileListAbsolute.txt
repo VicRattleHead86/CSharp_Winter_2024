@@ -1,0 +1,19 @@
+E:\Programs\DemoGDIDrawer1\DemoGDIDrawer1\bin\Debug\DemoGDIDrawer1.exe.config
+E:\Programs\DemoGDIDrawer1\DemoGDIDrawer1\bin\Debug\DemoGDIDrawer1.exe
+E:\Programs\DemoGDIDrawer1\DemoGDIDrawer1\bin\Debug\DemoGDIDrawer1.pdb
+E:\Programs\DemoGDIDrawer1\DemoGDIDrawer1\bin\Debug\GDIDrawer.dll
+E:\Programs\DemoGDIDrawer1\DemoGDIDrawer1\obj\Debug\DemoGDIDrawer1.csproj.AssemblyReference.cache
+E:\Programs\DemoGDIDrawer1\DemoGDIDrawer1\obj\Debug\DemoGDIDrawer1.csproj.SuggestedBindingRedirects.cache
+E:\Programs\DemoGDIDrawer1\DemoGDIDrawer1\obj\Debug\DemoGDIDrawer1.csproj.CoreCompileInputs.cache
+E:\Programs\DemoGDIDrawer1\DemoGDIDrawer1\obj\Debug\DemoGDIDrawer1.csproj.CopyComplete
+E:\Programs\DemoGDIDrawer1\DemoGDIDrawer1\obj\Debug\DemoGDIDrawer1.exe
+E:\Programs\DemoGDIDrawer1\DemoGDIDrawer1\obj\Debug\DemoGDIDrawer1.pdb
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoGDIDrawer1\DemoGDIDrawer1\DemoGDIDrawer1\bin\Debug\DemoGDIDrawer1.exe.config
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoGDIDrawer1\DemoGDIDrawer1\DemoGDIDrawer1\bin\Debug\DemoGDIDrawer1.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoGDIDrawer1\DemoGDIDrawer1\DemoGDIDrawer1\bin\Debug\DemoGDIDrawer1.pdb
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoGDIDrawer1\DemoGDIDrawer1\DemoGDIDrawer1\bin\Debug\GDIDrawer.dll
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoGDIDrawer1\DemoGDIDrawer1\DemoGDIDrawer1\obj\Debug\DemoGDIDrawer1.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoGDIDrawer1\DemoGDIDrawer1\DemoGDIDrawer1\obj\Debug\DemoGDIDrawer1.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoGDIDrawer1\DemoGDIDrawer1\DemoGDIDrawer1\obj\Debug\DemoGDIDrawer1.csproj.CopyComplete
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoGDIDrawer1\DemoGDIDrawer1\DemoGDIDrawer1\obj\Debug\DemoGDIDrawer1.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoGDIDrawer1\DemoGDIDrawer1\DemoGDIDrawer1\obj\Debug\DemoGDIDrawer1.pdb

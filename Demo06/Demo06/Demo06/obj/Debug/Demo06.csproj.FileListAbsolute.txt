@@ -1,0 +1,7 @@
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Demo06\Demo06\Demo06\bin\Debug\Demo06.exe.config
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Demo06\Demo06\Demo06\bin\Debug\Demo06.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Demo06\Demo06\Demo06\bin\Debug\Demo06.pdb
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Demo06\Demo06\Demo06\obj\Debug\Demo06.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Demo06\Demo06\Demo06\obj\Debug\Demo06.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Demo06\Demo06\Demo06\obj\Debug\Demo06.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Demo06\Demo06\Demo06\obj\Debug\Demo06.pdb
