@@ -1,0 +1,15 @@
+E:\Programs\DemoStructureA03\DemoStructureA03\bin\Debug\DemoStructureA03.exe.config
+E:\Programs\DemoStructureA03\DemoStructureA03\bin\Debug\DemoStructureA03.exe
+E:\Programs\DemoStructureA03\DemoStructureA03\bin\Debug\DemoStructureA03.pdb
+E:\Programs\DemoStructureA03\DemoStructureA03\obj\Debug\DemoStructureA03.csproj.AssemblyReference.cache
+E:\Programs\DemoStructureA03\DemoStructureA03\obj\Debug\DemoStructureA03.csproj.SuggestedBindingRedirects.cache
+E:\Programs\DemoStructureA03\DemoStructureA03\obj\Debug\DemoStructureA03.csproj.CoreCompileInputs.cache
+E:\Programs\DemoStructureA03\DemoStructureA03\obj\Debug\DemoStructureA03.exe
+E:\Programs\DemoStructureA03\DemoStructureA03\obj\Debug\DemoStructureA03.pdb
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoStructureA03\DemoStructureA03\bin\Debug\DemoStructureA03.exe.config
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoStructureA03\DemoStructureA03\bin\Debug\DemoStructureA03.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoStructureA03\DemoStructureA03\bin\Debug\DemoStructureA03.pdb
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoStructureA03\DemoStructureA03\obj\Debug\DemoStructureA03.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoStructureA03\DemoStructureA03\obj\Debug\DemoStructureA03.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoStructureA03\DemoStructureA03\obj\Debug\DemoStructureA03.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DemoStructureA03\DemoStructureA03\obj\Debug\DemoStructureA03.pdb

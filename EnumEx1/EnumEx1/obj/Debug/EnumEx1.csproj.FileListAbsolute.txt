@@ -1,0 +1,7 @@
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\EnumEx1\EnumEx1\bin\Debug\EnumEx1.exe.config
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\EnumEx1\EnumEx1\bin\Debug\EnumEx1.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\EnumEx1\EnumEx1\bin\Debug\EnumEx1.pdb
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\EnumEx1\EnumEx1\obj\Debug\EnumEx1.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\EnumEx1\EnumEx1\obj\Debug\EnumEx1.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\EnumEx1\EnumEx1\obj\Debug\EnumEx1.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\EnumEx1\EnumEx1\obj\Debug\EnumEx1.pdb

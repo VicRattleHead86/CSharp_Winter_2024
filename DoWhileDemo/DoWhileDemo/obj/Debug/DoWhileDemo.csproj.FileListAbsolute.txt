@@ -1,0 +1,12 @@
+C:\Users\regw\Desktop\DoWhileDemo\DoWhileDemo\bin\Debug\DoWhileDemo.exe.config
+C:\Users\regw\Desktop\DoWhileDemo\DoWhileDemo\bin\Debug\DoWhileDemo.exe
+C:\Users\regw\Desktop\DoWhileDemo\DoWhileDemo\bin\Debug\DoWhileDemo.pdb
+C:\Users\regw\Desktop\DoWhileDemo\DoWhileDemo\obj\Debug\DoWhileDemo.csproj.AssemblyReference.cache
+C:\Users\regw\Desktop\DoWhileDemo\DoWhileDemo\obj\Debug\DoWhileDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\regw\Desktop\DoWhileDemo\DoWhileDemo\obj\Debug\DoWhileDemo.csproj.CoreCompileInputs.cache
+C:\Users\regw\Desktop\DoWhileDemo\DoWhileDemo\obj\Debug\DoWhileDemo.exe
+C:\Users\regw\Desktop\DoWhileDemo\DoWhileDemo\obj\Debug\DoWhileDemo.pdb
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DoWhileDemo\DoWhileDemo\obj\Debug\DoWhileDemo.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DoWhileDemo\DoWhileDemo\obj\Debug\DoWhileDemo.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DoWhileDemo\DoWhileDemo\obj\Debug\DoWhileDemo.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\DoWhileDemo\DoWhileDemo\obj\Debug\DoWhileDemo.pdb
