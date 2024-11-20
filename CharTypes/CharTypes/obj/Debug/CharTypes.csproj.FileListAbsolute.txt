@@ -1,0 +1,15 @@
+E:\Programs\CharTypes\CharTypes\bin\Debug\CharTypes.exe.config
+E:\Programs\CharTypes\CharTypes\bin\Debug\CharTypes.exe
+E:\Programs\CharTypes\CharTypes\bin\Debug\CharTypes.pdb
+E:\Programs\CharTypes\CharTypes\obj\Debug\CharTypes.csproj.AssemblyReference.cache
+E:\Programs\CharTypes\CharTypes\obj\Debug\CharTypes.csproj.SuggestedBindingRedirects.cache
+E:\Programs\CharTypes\CharTypes\obj\Debug\CharTypes.csproj.CoreCompileInputs.cache
+E:\Programs\CharTypes\CharTypes\obj\Debug\CharTypes.exe
+E:\Programs\CharTypes\CharTypes\obj\Debug\CharTypes.pdb
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\CharTypes\CharTypes\bin\Debug\CharTypes.exe.config
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\CharTypes\CharTypes\bin\Debug\CharTypes.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\CharTypes\CharTypes\bin\Debug\CharTypes.pdb
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\CharTypes\CharTypes\obj\Debug\CharTypes.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\CharTypes\CharTypes\obj\Debug\CharTypes.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\CharTypes\CharTypes\obj\Debug\CharTypes.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\CharTypes\CharTypes\obj\Debug\CharTypes.pdb
