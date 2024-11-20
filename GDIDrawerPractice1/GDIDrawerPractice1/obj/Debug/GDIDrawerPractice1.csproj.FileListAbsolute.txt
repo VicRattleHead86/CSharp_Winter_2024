@@ -1,0 +1,9 @@
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\GDIDrawerPractice1\GDIDrawerPractice1\bin\Debug\GDIDrawerPractice1.exe.config
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\GDIDrawerPractice1\GDIDrawerPractice1\bin\Debug\GDIDrawerPractice1.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\GDIDrawerPractice1\GDIDrawerPractice1\bin\Debug\GDIDrawerPractice1.pdb
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\GDIDrawerPractice1\GDIDrawerPractice1\bin\Debug\GDIDrawer.dll
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\GDIDrawerPractice1\GDIDrawerPractice1\obj\Debug\GDIDrawerPractice1.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\GDIDrawerPractice1\GDIDrawerPractice1\obj\Debug\GDIDrawerPractice1.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\GDIDrawerPractice1\GDIDrawerPractice1\obj\Debug\GDIDrawerPractice1.csproj.CopyComplete
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\GDIDrawerPractice1\GDIDrawerPractice1\obj\Debug\GDIDrawerPractice1.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\GDIDrawerPractice1\GDIDrawerPractice1\obj\Debug\GDIDrawerPractice1.pdb
