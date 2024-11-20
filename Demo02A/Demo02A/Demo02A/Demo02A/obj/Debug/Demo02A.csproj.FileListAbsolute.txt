@@ -1,0 +1,8 @@
+E:\Programs\Demo02A\Demo02A\bin\Debug\Demo02A.exe.config
+E:\Programs\Demo02A\Demo02A\bin\Debug\Demo02A.exe
+E:\Programs\Demo02A\Demo02A\bin\Debug\Demo02A.pdb
+E:\Programs\Demo02A\Demo02A\obj\Debug\Demo02A.csproj.AssemblyReference.cache
+E:\Programs\Demo02A\Demo02A\obj\Debug\Demo02A.csproj.SuggestedBindingRedirects.cache
+E:\Programs\Demo02A\Demo02A\obj\Debug\Demo02A.csproj.CoreCompileInputs.cache
+E:\Programs\Demo02A\Demo02A\obj\Debug\Demo02A.exe
+E:\Programs\Demo02A\Demo02A\obj\Debug\Demo02A.pdb

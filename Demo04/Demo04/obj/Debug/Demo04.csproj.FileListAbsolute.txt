@@ -1,0 +1,14 @@
+K:\Programs\Demo04\Demo04\bin\Debug\Demo04.exe.config
+K:\Programs\Demo04\Demo04\bin\Debug\Demo04.exe
+K:\Programs\Demo04\Demo04\bin\Debug\Demo04.pdb
+K:\Programs\Demo04\Demo04\obj\Debug\Demo04.csproj.AssemblyReference.cache
+K:\Programs\Demo04\Demo04\obj\Debug\Demo04.csproj.CoreCompileInputs.cache
+K:\Programs\Demo04\Demo04\obj\Debug\Demo04.exe
+K:\Programs\Demo04\Demo04\obj\Debug\Demo04.pdb
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Demo04\Demo04\bin\Debug\Demo04.exe.config
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Demo04\Demo04\bin\Debug\Demo04.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Demo04\Demo04\bin\Debug\Demo04.pdb
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Demo04\Demo04\obj\Debug\Demo04.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Demo04\Demo04\obj\Debug\Demo04.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Demo04\Demo04\obj\Debug\Demo04.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Demo04\Demo04\obj\Debug\Demo04.pdb

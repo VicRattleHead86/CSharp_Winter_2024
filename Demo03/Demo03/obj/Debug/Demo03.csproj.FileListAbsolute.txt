@@ -1,0 +1,8 @@
+E:\Programs\Demo03\Demo03\bin\Debug\Demo03.exe.config
+E:\Programs\Demo03\Demo03\bin\Debug\Demo03.exe
+E:\Programs\Demo03\Demo03\bin\Debug\Demo03.pdb
+E:\Programs\Demo03\Demo03\obj\Debug\Demo03.csproj.AssemblyReference.cache
+E:\Programs\Demo03\Demo03\obj\Debug\Demo03.csproj.SuggestedBindingRedirects.cache
+E:\Programs\Demo03\Demo03\obj\Debug\Demo03.csproj.CoreCompileInputs.cache
+E:\Programs\Demo03\Demo03\obj\Debug\Demo03.exe
+E:\Programs\Demo03\Demo03\obj\Debug\Demo03.pdb
