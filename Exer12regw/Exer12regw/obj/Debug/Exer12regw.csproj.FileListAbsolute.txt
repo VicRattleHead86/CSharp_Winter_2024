@@ -1,0 +1,7 @@
+K:\Programs\Exer12regw\Exer12regw\bin\Debug\Exer12regw.exe.config
+K:\Programs\Exer12regw\Exer12regw\bin\Debug\Exer12regw.exe
+K:\Programs\Exer12regw\Exer12regw\bin\Debug\Exer12regw.pdb
+K:\Programs\Exer12regw\Exer12regw\obj\Debug\Exer12regw.csproj.AssemblyReference.cache
+K:\Programs\Exer12regw\Exer12regw\obj\Debug\Exer12regw.csproj.CoreCompileInputs.cache
+K:\Programs\Exer12regw\Exer12regw\obj\Debug\Exer12regw.exe
+K:\Programs\Exer12regw\Exer12regw\obj\Debug\Exer12regw.pdb

@@ -1,0 +1,7 @@
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Exer14regw\Exer14regw\bin\Debug\Exer14regw.exe.config
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Exer14regw\Exer14regw\bin\Debug\Exer14regw.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Exer14regw\Exer14regw\bin\Debug\Exer14regw.pdb
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Exer14regw\Exer14regw\obj\Debug\Exer14regw.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Exer14regw\Exer14regw\obj\Debug\Exer14regw.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Exer14regw\Exer14regw\obj\Debug\Exer14regw.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Exer14regw\Exer14regw\obj\Debug\Exer14regw.pdb

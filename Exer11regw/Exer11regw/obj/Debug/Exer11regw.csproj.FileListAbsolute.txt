@@ -1,0 +1,14 @@
+K:\Programs\Exer11regw\Exer11regw\obj\Debug\Exer11regw.csproj.AssemblyReference.cache
+K:\Programs\Exer11regw\Exer11regw\obj\Debug\Exer11regw.csproj.CoreCompileInputs.cache
+K:\Programs\Exer11regw\Exer11regw\bin\Debug\Exer11regw.exe.config
+K:\Programs\Exer11regw\Exer11regw\bin\Debug\Exer11regw.exe
+K:\Programs\Exer11regw\Exer11regw\bin\Debug\Exer11regw.pdb
+K:\Programs\Exer11regw\Exer11regw\obj\Debug\Exer11regw.exe
+K:\Programs\Exer11regw\Exer11regw\obj\Debug\Exer11regw.pdb
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Exer11regw\Exer11regw\bin\Debug\Exer11regw.exe.config
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Exer11regw\Exer11regw\bin\Debug\Exer11regw.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Exer11regw\Exer11regw\bin\Debug\Exer11regw.pdb
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Exer11regw\Exer11regw\obj\Debug\Exer11regw.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Exer11regw\Exer11regw\obj\Debug\Exer11regw.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Exer11regw\Exer11regw\obj\Debug\Exer11regw.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Exer11regw\Exer11regw\obj\Debug\Exer11regw.pdb

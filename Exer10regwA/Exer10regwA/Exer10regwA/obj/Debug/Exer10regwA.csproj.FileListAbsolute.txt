@@ -1,0 +1,19 @@
+E:\Programs\Exer10regwA\Exer10regwA\bin\Debug\Exer10regwA.exe.config
+E:\Programs\Exer10regwA\Exer10regwA\bin\Debug\Exer10regwA.exe
+E:\Programs\Exer10regwA\Exer10regwA\bin\Debug\Exer10regwA.pdb
+E:\Programs\Exer10regwA\Exer10regwA\bin\Debug\GDIDrawer.dll
+E:\Programs\Exer10regwA\Exer10regwA\obj\Debug\Exer10regwA.csproj.AssemblyReference.cache
+E:\Programs\Exer10regwA\Exer10regwA\obj\Debug\Exer10regwA.csproj.SuggestedBindingRedirects.cache
+E:\Programs\Exer10regwA\Exer10regwA\obj\Debug\Exer10regwA.csproj.CoreCompileInputs.cache
+E:\Programs\Exer10regwA\Exer10regwA\obj\Debug\Exer10regwA.csproj.CopyComplete
+E:\Programs\Exer10regwA\Exer10regwA\obj\Debug\Exer10regwA.exe
+E:\Programs\Exer10regwA\Exer10regwA\obj\Debug\Exer10regwA.pdb
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Exer10regwA\Exer10regwA\Exer10regwA\bin\Debug\Exer10regwA.exe.config
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Exer10regwA\Exer10regwA\Exer10regwA\bin\Debug\Exer10regwA.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Exer10regwA\Exer10regwA\Exer10regwA\bin\Debug\Exer10regwA.pdb
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Exer10regwA\Exer10regwA\Exer10regwA\bin\Debug\GDIDrawer.dll
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Exer10regwA\Exer10regwA\Exer10regwA\obj\Debug\Exer10regwA.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Exer10regwA\Exer10regwA\Exer10regwA\obj\Debug\Exer10regwA.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Exer10regwA\Exer10regwA\Exer10regwA\obj\Debug\Exer10regwA.csproj.CopyComplete
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Exer10regwA\Exer10regwA\Exer10regwA\obj\Debug\Exer10regwA.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Exer10regwA\Exer10regwA\Exer10regwA\obj\Debug\Exer10regwA.pdb
